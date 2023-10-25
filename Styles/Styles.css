@@ -1,0 +1,33 @@
+.DivColor{
+    background-color: blueviolet;
+}
+
+.titleHeader{
+    height: 200px;
+    background-color: #D9D9D9;
+}
+.txtColor{
+    color: rgb(154, 53, 53);
+}
+.cards{
+    display: flex;
+    justify-content: space-evenly;
+}
+.bg{
+    background-color: purple;
+}
+.txtDec{
+    text-decoration:none
+}
+.border{
+   
+  outline: #000000 solid 1px;
+  margin: auto;  
+  padding: 20px;
+  text-align: center;
+}
+.buttonC{
+    display: flex;
+    align-items: flex-end;
+    justify-content: end;
+}
